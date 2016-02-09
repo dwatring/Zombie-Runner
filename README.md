@@ -1,7 +1,8 @@
 # Zombie-Runner
 Side-scrolling Unity game with Windows/Web/Linux/Android builds
 
-[Executable](https://www.dropbox.com/s/4vyphqqnty0pro1/MemoCalendar.exe?dl=0) (created with [Launch4J](http://launch4j.sourceforge.net/))
+[Windows64 Executable](https://www.dropbox.com/s/24aw4p82rf5wayp/ZombieRunner64.zip?dl=0)
+More coming soon...
 
 ### Features
 * `Cross-Platform` : Builds on Windows64/Windows32/Web/Linux/Android
